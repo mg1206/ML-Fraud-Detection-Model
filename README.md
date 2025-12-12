@@ -1,4 +1,4 @@
-# (UPDATE IN README.md) ML Fraud Detection Model
+# ML Fraud Detection Model
 
 Used Logistic Regression and Tree Ensemble Models to create a fraud detection classifier capable of accurately flagging fraudulent listings within large online retailers, all within AI4ALL's Ignite accelerator.
 
