@@ -27,11 +27,4 @@ Kaggle Dataset: https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-a
 - Random Forest
 - XGBoost
 
-## Authors 
-
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-- Maria George: mg2101@scarletmail.rutgers.edu
-- Nancy Chen: nancy.chen.3@stonybrook.edu
-- Sameen Chand: sameen.chand@usm.edu
-- Ebenezer Ajisafe: eajisaf1@students.towson.edu
+Maria George - mariageorge1206@gmail.com
